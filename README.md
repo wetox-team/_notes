@@ -9,7 +9,7 @@ Array
 )
 </pre>
 
-follow the updates in [wetox_flipper](https://t.me/wetox_flipper) channel
+follow the updates in [wet0x](https://t.me/wet0x) & [wetox_flipper](https://t.me/wetox_flipper) channels
 
 ---
 
