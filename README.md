@@ -10,7 +10,7 @@ Array
 )
 </pre>
 
-follow the updates in [wet0x](https://t.me/wet0x) & [wetox_flipper](https://t.me/wetox_flipper) channels
+follow the updates in [wetox_crew](https://t.me/wetox_crew) channel
 
 ---
 
