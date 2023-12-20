@@ -6,7 +6,7 @@ Array
 (
     [flipperzero-goodies:intercom-keys] => <a href="//www.wetox-team.github.io/flipperzero-goodies/intercom-keys/">./intercom-keys</a>,
     [flipperzero-goodies:scripts] => <a href="//www.wetox-team.github.io/flipperzero-goodies/scripts/">./scripts</a>,
-    [flipperzero-firmware] => <a href="//www.wetox-team.github.io/flipperzero-goodies/flipperzero-firmware/">./flipperzero-firmware</a>,
+    [flipperzero-firmware] => <a target="_blank" href="//github.com/wetox-team/flipperzero-firmware">./flipperzero-firmware</a>,
 )
 </pre>
 
