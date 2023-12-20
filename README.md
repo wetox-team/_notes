@@ -4,10 +4,8 @@ Some notes
 <pre>
 Array
 (
-    [web_sites] => <a href="//sunnycapt.github.io/_notes/websites.html">./websites</a>,
-    [cunts] => <a href="//sunnycapt.github.io/_notes/cunts.html">./cunts</a>,
-    [escape_plan] => <a href="//sunnycapt.github.io/_notes/transfer-to-itmo.html">./transfer-to-itmo</a>,
-    [flipperzero-goodies] => <a target="_blank" href="//wetox-team.github.io/flipperzero-goodies/intercom-keys/">./intercom-keys</a>
+    [flipperzero-goodies] => <a target="_blank" href="//wetox-team.github.io/flipperzero-goodies/intercom-keys/">./intercom-keys</a>,
+    [flipperzero-firmware] => <a target="_blank" href="//wetox-team.github.io/flipperzero-goodies/flipperzero-firmware/">./flipperzero-firmware</a>,
 )
 </pre>
 
