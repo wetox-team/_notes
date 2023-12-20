@@ -1,2 +1,18 @@
 # _notes
-Wetox notes
+Some notes
+
+<pre>
+Array
+(
+    [web_sites] => <a href="//sunnycapt.github.io/_notes/websites.html">./websites</a>,
+    [cunts] => <a href="//sunnycapt.github.io/_notes/cunts.html">./cunts</a>,
+    [escape_plan] => <a href="//sunnycapt.github.io/_notes/transfer-to-itmo.html">./transfer-to-itmo</a>,
+    [flipperzero-goodies] => <a target="_blank" href="//wetox-team.github.io/flipperzero-goodies/intercom-keys/">./intercom-keys</a>
+)
+</pre>
+
+follow the updates in [wetox_flipper](https://t.me/wetox_flipper) channel
+
+---
+
+__from wetox with love__
