@@ -4,9 +4,9 @@ Some notes
 <pre>
 Array
 (
-    [flipperzero-goodies:intercom-keys] => <a href="//wetox-team.github.io/flipperzero-goodies/intercom-keys/">./intercom-keys</a>,
-    [flipperzero-goodies:scripts] => <a href="//wetox-team.github.io/flipperzero-goodies/scripts/">./scripts</a>,
-    [flipperzero-firmware] => <a href="//wetox-team.github.io/flipperzero-goodies/flipperzero-firmware/">./flipperzero-firmware</a>,
+    [flipperzero-goodies:intercom-keys] => <a href="https://wetox-team.github.io/flipperzero-goodies/intercom-keys/">./intercom-keys</a>,
+    [flipperzero-goodies:scripts] => <a href="https://wetox-team.github.io/flipperzero-goodies/scripts/">./scripts</a>,
+    [flipperzero-firmware] => <a href="https://wetox-team.github.io/flipperzero-goodies/flipperzero-firmware/">./flipperzero-firmware</a>,
 )
 </pre>
 
